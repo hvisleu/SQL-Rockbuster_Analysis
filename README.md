@@ -35,4 +35,4 @@ We were provided with a dataset containing the following information:
 
 ## Visualizations
 
-Visualizations were created in tableau and can be found here
+Visualizations were created in tableau and can be found [here](https://public.tableau.com/views/Rockbuster_16880289140620/top5customers?:language=en-US&:display_count=n&:origin=viz_share_link)
